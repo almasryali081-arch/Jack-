@@ -32,6 +32,6 @@ To me, the terminal isn't just a black screen — it's a creative canvas where I
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/your-username/ali-terminal-tools.git
+git clone SSH://github.com/your-username/ali-terminal-tools.git
 cd ali-terminal-tools
 bash install.sh
